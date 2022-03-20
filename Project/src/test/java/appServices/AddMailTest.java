@@ -17,6 +17,7 @@ public class AddMailTest {
 	@BeforeTest
 	public void init() {
 		InitilizeViews.init();
+		System.out.println("configuring browser views");
 	}
 	
 	
