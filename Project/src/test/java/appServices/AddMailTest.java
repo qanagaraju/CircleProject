@@ -31,9 +31,6 @@ public class AddMailTest {
 			
 }
 		
-		@Test
-		public void closetest() {
-			driver.close();
-		}
+		
 
 }
